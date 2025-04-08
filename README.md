@@ -17,3 +17,10 @@ Plots and figures are saved in the `figures/` folder.
 
 ## Reflection
 This project helped me practice EDA techniques, data visualization, and understanding clinical data interpretation.
+
+
+## Citations:
+Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+V.A. Medical Center, Long Beach and Cleveland Clinic Foundation:Robert Detrano, M.D., Ph.D.
