@@ -1,4 +1,4 @@
-# Heart-Disease-EDA
+# Heart Disease Exploratory Data Analysis 🫀
 Exploratory Data Analysis (EDA) on the Heart Disease UCI Dataset.
 
 ## Project Overview
