@@ -2,7 +2,7 @@
 Exploratory Data Analysis (EDA) on the Heart Disease UCI Dataset.
 
 ## Project Overview
-**Objective:** Understand factors and trends associated with heart disease
+**Objective:** Understand factors and trends associated with heart disease.
 - Tools: Python, Pandas, Numpy, Matplotlib, Seaborn
 - Dataset: [Heart Disease UCI] (https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?resource=download)
 
