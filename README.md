@@ -7,22 +7,21 @@ Exploratory Data Analysis (EDA) on the Heart Disease UCI Dataset.
 - Dataset: [Heart Disease UCI] (https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?resource=download)
 
 ## Summary of Key Findings:
-Demographics:
-- The dataset is predominantly male (79%) and most participants are between 40-60 years old (67%).
-
-Variables:
+**Demographics:**
+- The dataset contains 920 participants and is predominantly male (79%), with and participants between 40-60 years old (67%).
 - The presence of advanced stages (2, 3, and 4) of heart disease increases with age, with the 60+ group showing the highest instances of advanced stages of disease (49%).
 
-- Visually, higher max heart rates tend to be associated with no heart disease, with an average max heart rate of 128 beats per minute (bpm) in participants with heart disease, and 149 bpm in healthy individuals.
+**Dependent Variables:**
+- Visually, higher max heart rates tend to be associated with no heart disease, with an average max heart rate of 128 beats per minute (bpm) in participants with heart disease, compared to 149 bpm in healthy individuals.
 
-- In those who reported chest pain, asymptomatic chest pain had the highest percentage of heart disease cases (79%). This suggests that silent symptoms of chest pain are critical, while typical/atypical angina and non-anginal chest pain types tend to be associated with healthier cases.
+- In those who reported chest pain, _asymptomatic_ chest pain had the highest percentage of heart disease cases (79%). This suggests that silent symptoms of chest pain are critical, while ___typical/atypical_ _angina_ and _non-anginal_ chest pain types tend to be associated with healthier cases.
 
-- A higher number of major vessels, as seen through fluoroscopy, present a moderate correlation with the presence of heart disease (r = 0.52).
-- Greater ST depression, which reflects reduced blood flow to the heart during exercise, also present a moderate correlation with higher rates of heart disease (r = 0.44).
+- A higher number of major vessels, as seen through fluoroscopy, show a moderate correlation with the presence of heart disease (_r_ = 0.52).
+- Greater ST depression, which reflects reduced blood flow to the heart during exercise, also have a moderate correlation with higher rates of heart disease (_r_ = 0.44).
 
-- Cholesterol levels have a weak association with heart disease in this dataset, suggesting a slightly inverse relationship (r = -0.23). This is surprising as high cholesterol is typically considered a risk factor for heart disease.
+- Cholesterol levels have a weak association with heart disease in this dataset, suggesting a slightly inverse relationship (_r_ = -0.23). This is surprising as high cholesterol is typically considered a risk factor for heart disease.
 
-Conclusion:
+**Conclusion:**
 - Overall, the dataset shows that physiological stress indicators (e.g., ST depression), vessel calcification (ca), and lower max heart rate are stronger indicators of heart disease presence.
 - The imbalance toward male and healthy participants may influence some findings and should be considered in future modelling.
 
